@@ -6,7 +6,7 @@ import numpy as np
 import math
 import copy
 from itertools import islice
-from config import *
+from config_for_integrated_network import *
 import os
 '''-----------------------------------------------------PLOTTING FUNCTIONS----------------------------------------------------'''
 def plot_saved_disruptions():
